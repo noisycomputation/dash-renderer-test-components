@@ -1,0 +1,5 @@
+include dash_renderer_test_components/dash_renderer_test_components.min.js
+include dash_renderer_test_components/dash_renderer_test_components.dev.js
+include dash_renderer_test_components/metadata.json
+include dash_renderer_test_components/package.json
+include README.md
