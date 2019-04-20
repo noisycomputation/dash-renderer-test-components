@@ -13,9 +13,9 @@ export default class UncontrolledInput extends Component {
         const {id, label, setProps, value} = this.props;
 
         return (
-            <div id={id}>
-                ExampleComponent: {label}&nbsp;
+            <div>
                 <input
+                    id={id}
                     value={value}
                     onChange={
                         /*
