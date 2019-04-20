@@ -46,7 +46,7 @@ UncontrolledInput.propTypes = {
     /**
      * A label that will be printed when this component is rendered.
      */
-    label: PropTypes.string.isRequired,
+    label: PropTypes.string,
 
     /**
      * The value displayed in the input
