@@ -1,3 +1,5 @@
+DEPRECATED
+
 # dash renderer test components
 
 dash renderer test components is a Dash component library.
